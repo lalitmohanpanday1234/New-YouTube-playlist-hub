@@ -1771,4 +1771,5 @@ window.addEventListener('beforeunload', () => {
     if (intersectionObserver) {
         intersectionObserver.disconnect();
     }
+
 }); 
